@@ -6,3 +6,12 @@
   text-align: center;
 }
 
+.href {
+  text-decoration: underline;
+  color: white;
+}
+
+.href:hover {
+  text-decoration: none;
+
+}
